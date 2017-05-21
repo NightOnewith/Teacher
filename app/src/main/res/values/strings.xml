@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">一键点名</string>
+    <string name="activity_main_1">管理</string>
+    <string name="activity_main_2">第</string>
+    <string name="activity_main_3">-</string>
+    <string name="activity_main_4">节</string>
+    <string name="activity_main_5">点名</string>
+    <string name="activity_main_6">时间</string>
+    <string name="activity_main_7">签到人数：</string>
+    <string name="activity_main_8">0</string>
+    <string name="activity_stu_class">添加一个班级</string>
+    <string name="fragment_dis">签到人数</string>
+    <string name="view_time_pick_1">分</string>
+    <string name="view_time_pick_2">秒</string>
+    <string name="activity_stu_class_tv_title">添加班级</string>
+    <string name="activity_main_btn_look">查看已签到学生</string>
+    <string name="title_general_back">返回</string>
+    <string-array name="stu_class_menu">
+        <item>编辑</item>
+        <item>删除</item>
+    </string-array>
+    <string-array name="adapter_node">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+
+</resources>
